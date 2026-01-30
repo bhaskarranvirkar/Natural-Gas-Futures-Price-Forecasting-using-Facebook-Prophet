@@ -1,17 +1,6 @@
 # Natural-Gas-Futures-Price-Forecasting-using-Facebook-Prophet
 Time series forecasting of Natural Gas futures prices using univariate and multivariate Prophet models with Fourier seasonality.
 
-# Natural Gas Futures Price Forecasting using Facebook Prophet
-
-## Project Overview
-This project applies the Facebook Prophet framework to forecast daily
-Natural Gas futures prices from January 2002 to December 2023.
-
-Both univariate (price-only) and multivariate (price + exogenous variables)
-models are developed, with seasonality captured using Fourier series.
-
----
-
 ## Dataset Description
 - Daily Natural Gas futures prices
 - Time period: 2002–2023
